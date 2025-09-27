@@ -13,6 +13,9 @@ mono_option = average
 reverse = 0
 
 [color]
+foreground = "#888888"
+background = "black"
+gradient = 0
 
 [smoothing]
 
