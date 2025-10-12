@@ -196,9 +196,12 @@ skidqs/
 │   ├── btop/
 │   │   └── btop.conf
 │   │
-│   ├── bigclock
+│   ├── bigclock/
 │   │   ├── requierments.txt
 │   │   └── bigclock.sh
+│   │
+│   └── vencord/
+│       └── settings.json
 │
 ├── screenshots/
 │   └── desktop.png
