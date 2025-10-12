@@ -1,0 +1,36 @@
+.notification-row {
+    border: none !important;
+    background-color: #3f3f3f !important;
+    border-radius: 16px !important;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+    color: #d8dee9 !important;
+    cursor: pointer;
+}
+
+.notification-row::before {
+    content: "";
+    position: absolute;
+    left: 10px;
+    right: 10px;
+    top: 50%;
+    height: 4px;
+    background-color: #5c5c5c;
+    border-radius: 2px;
+    transform: translateY(-50%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+.notification-row > * {
+    position: relative;
+    z-index: 1;
+}
+
+.close-button {
+    opacity: 0.05 !important;
+    width: 12px !important;
+    height: 12px !important;
+    pointer-events: none !important;
+}
