@@ -39,7 +39,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - Super + Return: Launch Kitty terminal
 - Super + D: Open Rofi app launcher
 - Super + Q: Close active window
-- Super + V: Toggle floating window
+- Super + Space: Toggle floating window
 - Super + 1-0: Switch to workspace 1-10
 - Super + Shift + 1-0: Move window to workspace 1-10
 
