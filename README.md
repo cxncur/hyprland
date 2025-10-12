@@ -35,7 +35,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - Font Awesome 6 Free (icons)
 
 ```
-
+skidqs/
 ├── config/
 │   ├── hypr/
 │   │   ├── Monitor_Profiles/
