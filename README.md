@@ -1,6 +1,6 @@
 # Hyprland Ricing Setup
 
-Welcome to my Hyprland ricing setup! This repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Wofi app launcher, and a semi-transparent Kitty terminal.
+Welcome to my Hyprland ricing setup! This repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
 
 ## Screenshots
 ![Desktop](screenshots/desktop.png)
@@ -13,7 +13,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - **Hypridle**: Idle management with screen lock and DPMS control
 - **Swaync**: Notification center with toggle via Waybar (default config included if not customized)
 - **Wlogout**: Stylish power menu for lock, logout, suspend, hibernate, reboot, and shutdown
-- **Wofi**: Minimalist app launcher with a dark theme and rounded corners
+- **Rofi**: Minimalist app launcher with a dark theme and rounded corners
 - **Kitty**: Terminal with a semi-transparent background
 - **Custom Keybindings**: Super key-based controls for workspaces, windows, screenshots, and media
 
@@ -25,7 +25,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - Hypridle
 - Swaync
 - Wlogout
-- Wofi
+- Rofi
 - Kitty
 - Dolphin (file manager)
 - NetworkManager (network)
@@ -37,7 +37,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 ## Keybindings
 
 - Super + Return: Launch Kitty terminal
-- Super + D: Open Wofi app launcher
+- Super + D: Open Rofi app launcher
 - Super + Q: Close active window
 - Super + V: Toggle floating window
 - Super + 1-0: Switch to workspace 1-10
@@ -133,24 +133,72 @@ skidqs/
 │   │   └── monitors.conf
 │   │
 │   ├── waybar/
-│   │   ├── config
-│   │   ├── style.css
-│   │   └── theme.css 
+│   │   ├── wallust/
+│   │   │   └── color-waybar.css
+│   │   │
+│   │   ├── scripts/
+│   │   │   └── volume.sh
+│   │   │
+│   │   ├── config.json
+│   │   └── style.css
 │   │
 │   ├── wlogout/
-│   │   ├── layout_1  
-│   │   ├── layout.json
-│   │   └── style_1.css
+│   │   ├── icons/
+│   │   │   ├── hibernate.png
+│   │   │   ├── lock.png
+│   │   │   ├── logout.png
+│   │   │   ├── reboot.png
+│   │   │   ├── shutdown.png
+│   │   │   └── suspend.png
+│   │   │
+│   │   ├── layout.json 
+│   │   ├── style.css
+│   │   └── theme.css
 │   │
-│   ├── wofi/
-│   │   └── style.css 
+│   ├── rofi/
+│   │   ├── themes
+│   │   │   └── skidqs.theme.rasi
+│   │   │
+│   │   ├── wallpapers
+│   │   │   └── currently no wallpapers
+│   │   │
+│   │   ├── config-wallpaper.rasi
+│   │   └── config.rasi
 │   │
 │   ├── swaync/
 │   │   ├── config.json
 │   │   └── style.css
 │   │
-│   └── kitty/
-│       └── kitty.conf
+│   ├── kitty/
+│   │   └── kitty.conf
+│   │
+│   ├── cava/
+│   │   ├── shaders/
+│   │   │   ├── bar_spectrum.frag
+│   │   │   ├── eye_of_phi.frag
+│   │   │   ├── normalized_bars.frag
+│   │   │   ├── northern_lights.frag
+│   │   │   ├── pass_through.vert
+│   │   │   ├── spectrogram.frag
+│   │   │   └── winamp_line_style_spectrum.frag
+│   │   │
+│   │   ├── themes/
+│   │   │   ├── solarized_dark
+│   │   │   └── tricolor
+│   │   │
+│   │   └── config
+│   │
+│   ├── fastfetch/
+│   │   ├── config.jsonc
+│   │   ├── config.toml
+│   │   └── logo.txt
+│   │
+│   ├── btop/
+│   │   └── btop.conf
+│   │
+│   ├── bigclock
+│   │   ├── requierments.txt
+│   │   └── bigclock.sh
 │
 ├── screenshots/
 │   └── desktop.png
