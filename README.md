@@ -36,7 +36,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 
 ## Keybindings
 
-- uper + Return: Launch Kitty terminal
+- Super + Return: Launch Kitty terminal
 - Super + D: Open Wofi app launcher
 - Super + Q: Close active window
 - Super + V: Toggle floating window
