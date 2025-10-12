@@ -1,0 +1,11 @@
+{
+  "style_file": "/home/skidqs/.config/swaync/style.css",
+  "max_visible": 10,
+  "max_icon_size": 48,
+  "default_timeout": 10000,
+  "close_on_click": true,
+  "icon_position": "left",
+  "margin": 20,
+  "anchor": "top-right",
+  "layer": "top"
+}
