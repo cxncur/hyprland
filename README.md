@@ -1,6 +1,6 @@
 # My Own Hyprland Rice
 
-Welcome to my Hyprland ricing setup! This repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
+Welcome to my Hyprland ricing dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
 
 ## Screenshots
 ![Desktop](screenshots/desktop.png)
@@ -41,8 +41,9 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - Super + Q: Close active window
 - Super + Space: Toggle floating window
 - Super + 1-0: Switch to workspace 1-10
-- Super + Shift + 1-0: Move window to workspace 1-10
+- Super + G: Toggle groups
 
+## Directorys
 
 ```
 skidqs/
