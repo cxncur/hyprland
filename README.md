@@ -47,7 +47,11 @@ Welcome to my Hyprland ricing dot files this repository contains my configuratio
 
 ```
 skidqs/
-├── config/
+│
+├── .bashrc/
+│    └── .bashrc
+│
+├── .config/
 │   ├── hypr/
 │   │   ├── Monitor_Profiles/
 │   │   │   └── default.conf
