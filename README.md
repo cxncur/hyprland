@@ -43,6 +43,7 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - Super + 1-0: Switch to workspace 1-10
 - Super + Shift + 1-0: Move window to workspace 1-10
 
+
 ```
 skidqs/
 ├── config/
