@@ -2,6 +2,8 @@ alias clear='clear'
 alias cls='clear && fastfetch'
 fastfetch
 
+alias cmatrix='cmatrix -B -C white'
+
 function set_prompt {
     local MAX_PATH_LEN=30
     local DIR_PLAIN=$(pwd)
