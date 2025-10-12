@@ -34,6 +34,15 @@ Welcome to my Hyprland ricing setup! This repository contains my configuration f
 - JetBrains Mono (Hyprlock font)
 - Font Awesome 6 Free (icons)
 
+## Keybindings
+
+- uper + Return: Launch Kitty terminal
+- Super + D: Open Wofi app launcher
+- Super + Q: Close active window
+- Super + V: Toggle floating window
+- Super + 1-0: Switch to workspace 1-10
+- Super + Shift + 1-0: Move window to workspace 1-10
+
 ```
 skidqs/
 ├── config/
@@ -148,12 +157,3 @@ skidqs/
 ├── README.md
 └── LICENSE
 ```
-
-## Keybindings
-
-- uper + Return: Launch Kitty terminal
-- Super + D: Open Wofi app launcher
-- Super + Q: Close active window
-- Super + V: Toggle floating window
-- Super + 1-0: Switch to workspace 1-10
-- Super + Shift + 1-0: Move window to workspace 1-10
