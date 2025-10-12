@@ -1,4 +1,4 @@
-# Hyprland Ricing Setup
+# My Own Hyprland Rice
 
 Welcome to my Hyprland ricing setup! This repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
 
