@@ -19,9 +19,8 @@ Welcome to my Hyprland dot files this repository contains my configuration files
 ## Cursor Theme
 This config uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme).
 
-**To install**
-```bash
-yay -S bibata-cursor-theme
+To install Bibata on Arch-based systems:
+```bash yay -S bibata-cursor-theme```
 
 
 ## Dependencies
