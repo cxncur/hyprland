@@ -67,7 +67,7 @@ To install Bibata on Arch-based operating systems run this: bash yay -S bibata-c
 - Hyprlock (screen locker for Hyprland)
 - Hyprpaper (wallpaper manager for Hyprland)
 - Hypridle (idle management for Hyprland)
-- Thunar (file manager)
+- Dolphin (file manager)
 - Nautilus (file manager)
 - NVIDIA Drivers (graphics drivers for NVIDIA GPUs)
 - nvidia-vaapi-driver (VA-API driver for NVIDIA GPUs)
