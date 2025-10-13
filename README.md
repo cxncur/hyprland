@@ -8,11 +8,15 @@
   ![](https://img.shields.io/github/issues/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=github&logoColor=FFFFFF&label=Open%20Issues)
 </div>
 
-welcome to my hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, semi-transparent Kitty terminal and more.
+Welcome to my **Hyprland dotfiles** — this repository contains my personal configuration files for a **sleek**, **modern**, and **functional** Hyprland desktop environment.  
+It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-transparent Kitty terminal**, and more — all tuned for performance and style.
 
+---
 
 ## Screenshots
 ![Desktop](screenshots/desktop.png)
+
+---
 
 ## Features
 - Hyprland (dynamic tiling with Dwindle layout, smooth animations, and French keyboard support)
@@ -32,11 +36,14 @@ welcome to my hyprland dot files this repository contains my configuration files
 - Wallust (Pywal-based color scheme generator)
 - Vencord (Discord client customization)
 
+---
+
 ## Cursor Theme
 This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
 
-To install Bibata on Arch-based operating systems run this: ```bash yay -S bibata-cursor-theme```
+To install Bibata on Arch-based operating systems run this: bash yay -S bibata-cursor-theme
 
+---
 
 ## Dependencies
 - Hyprland (dynamic tiling Wayland compositor)
@@ -64,6 +71,7 @@ To install Bibata on Arch-based operating systems run this: ```bash yay -S bibat
 - nvidia-vaapi-driver (VA-API driver for NVIDIA GPUs)
 - libva-nvidia-driver (VA-API driver for NVIDIA GPUs)
 
+---
 
 ## Keybindings
 - Super + Return: Launch Kitty terminal
@@ -93,10 +101,10 @@ To install Bibata on Arch-based operating systems run this: ```bash yay -S bibat
 - Super + Shift + D: Toggle theme/wallpaper colors
 - Super + Shift + T: Theme select menu
 - Super + Shift + W: Wallpaper select menu
-- Super + Shift + A: Rofi style select menu!
+- Super + Shift + A: Rofi style select menu
 
 
-## Directorys
+## Directory Structure
 ```
 skidqs/
 ├── .config/
@@ -264,3 +272,4 @@ skidqs/
 ├── README.md
 └── LICENSE
 ```
+<div align="center"> <sub>maintained and customized by <b>@skidqs</b></sub> </div>
