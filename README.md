@@ -1,3 +1,12 @@
+<style>
+h2 {
+  border-bottom: none !important;
+  box-shadow: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.5em;
+}
+</style>
+
 <div align="center">
   <h1>skidqs hyprland dotfiles</h1>
 
@@ -13,7 +22,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 
 ---
 
-`## Screenshots`
+## Screenshots
 ![Desktop](screenshots/desktop.png)
 
 ---
