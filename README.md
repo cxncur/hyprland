@@ -1,7 +1,6 @@
-<h1>skidqs hyprland dotfiles</h1>
-<h3></h3>
-
 <div align="center">
+  <h1>skidqs hyprland dotfiles</h1>
+
   ![](https://img.shields.io/github/last-commit/skidqs/hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
   ![](https://img.shields.io/github/stars/skidqs/hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
   ![](https://img.shields.io/github/repo-size/skidqs/hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
