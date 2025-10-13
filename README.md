@@ -6,7 +6,6 @@
   ![](https://img.shields.io/github/repo-size/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=protondrive&logoColor=FFFFFF&label=Size)
   ![](https://img.shields.io/github/forks/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=git&logoColor=FFFFFF&label=Forks)
   ![](https://img.shields.io/github/issues/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=github&logoColor=FFFFFF&label=Open%20Issues)
-  ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=open-source-initiative&logoColor=FFFFFF&label=License)
 </div>
 
 welcome to my hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, semi-transparent Kitty terminal and more.
