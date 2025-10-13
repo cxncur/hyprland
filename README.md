@@ -13,7 +13,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 
 ---
 
-# Screenshots
+`## Screenshots`
 ![Desktop](screenshots/desktop.png)
 
 ---
