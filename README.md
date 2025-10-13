@@ -6,7 +6,7 @@
   ![](https://img.shields.io/github/repo-size/skidqs/hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
   ![](https://img.shields.io/github/forks/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=git&logoColor=D9E0EE&label=Forks&labelColor=1E202B)
   ![](https://img.shields.io/github/issues/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=github&logoColor=D9E0EE&label=Open%20Issues&labelColor=1E202B)
-  ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=open-source-initiative&logoColor=D9E0EE&label=License&labelColor=1E202B)
+  ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=open-source-initiative&logoColor=D9E0EE&label=License&labelColor=86dbd7)
   
 </div>
 
