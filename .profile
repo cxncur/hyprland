@@ -1,0 +1,6 @@
+.pexport BROWSER=brave
+export TERM=kitty
+export QT_QPA_PLATFORMTHEME="qt5ct"
+
+export XCURSOR_THEME="Bibata-Modern-Ice"
+export XCURSOR_SIZE=24
