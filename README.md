@@ -17,9 +17,9 @@ Welcome to my Hyprland dot files this repository contains my configuration files
 - **Custom Keybindings**: Super key-based controls for workspaces, windows, screenshots, and media
 
 ## Cursor Theme
-This config uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme).
+This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
 
-To install Bibata on Arch-based systems:
+To install Bibata on Arch-based operating systems run this:
 ```bash yay -S bibata-cursor-theme```
 
 
