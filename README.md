@@ -43,7 +43,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 ## Cursor Theme
 This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
 
-To install Bibata on Arch-based operating systems run this: bash yay -S bibata-cursor-theme
+To install Bibata on Arch-based operating systems run this: ```bash yay -S bibata-cursor-theme```
 
 ---
 
