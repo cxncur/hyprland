@@ -21,7 +21,7 @@ This config uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bi
 
 **To install**
 ```bash
-yay -S bibata-cursor-theme```
+yay -S bibata-cursor-theme
 
 
 ## Dependencies
