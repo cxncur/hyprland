@@ -1,21 +1,31 @@
-MIT License
+Skidqs Attribution License 1.0
 
-Copyright (c) 2025 skidqs
+Copyright (c) %%YEAR%% skidqs (https://github.com/skidqs)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Attribution  
+   All copies, distributions, or derivative works of the Software, whether in source or binary form, must include clear and visible attribution to the original author. This attribution must contain the text:  
+   **“Made by skidqs (https://github.com/skidqs)”**  
+   The attribution should be included:  
+   - In source code form: in a prominent place such as the top-level `README`, a `NOTICE` file, and/or the header comments of each significant source file that is copied or modified.  
+   - In binary or compiled form: in accompanying documentation, an About box, or other user-visible location that reasonably notifies users of the original author.  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Redistribution  
+   Redistributions of the Software in any form (source or binary) must reproduce this license text and the attribution notices as specified above. Any redistribution that removes, obscures, or fails to maintain the attribution is prohibited.
+
+3. Modifications  
+   Any modifications or derivative works based on the Software must also comply with the Attribution requirement (Section 1). If you distribute modified versions, you must clearly indicate that changes were made and maintain the original attribution to skidqs.
+
+4. No Endorsement  
+   This license does not grant any rights to use the name, trademarks, or logos of skidqs for endorsement or promotion of derived products without prior written permission.
+
+5. Disclaimer of Warranty  
+   THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR DISTRIBUTION OF THE SOFTWARE.
+
+6. Limitation of Liability  
+   In no event shall the copyright holder be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, business interruption, or loss of information) arising out of the use of or inability to use the Software, even if the copyright holder has been advised of the possibility of such damages.
+
+---
+
+By using, copying, modifying, or distributing this Software, you agree to be bound by the terms of this license.
