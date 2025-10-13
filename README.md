@@ -9,7 +9,7 @@
   ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=open-source-initiative&logoColor=FFFFFF&label=License)
 </div>
 
-Welcome to my Hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
+welcome to my hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, semi-transparent Kitty terminal and more.
 
 
 ## Screenshots
