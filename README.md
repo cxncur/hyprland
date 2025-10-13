@@ -15,15 +15,22 @@ welcome to my hyprland dot files this repository contains my configuration files
 ![Desktop](screenshots/desktop.png)
 
 ## Features
-- **Hyprland**: Dynamic tiling with Dwindle layout, smooth animations, and French keyboard support
-- **Waybar**: Custom top bar with workspaces, clock,
-- **Hyprlock**: Elegant lock screen with time, date, music info, and battery status
-- **Hyprpaper**: Wallpaper management with Pywal integration
-- **Hypridle**: Idle management with screen lock and DPMS control
-- **Wlogout**: Stylish power menu for lock, logout, suspend, hibernate, reboot, and shutdown
-- **Rofi**: Minimalist app launcher with a dark theme and rounded corners
-- **Kitty**: Terminal with a semi-transparent background
-- **Custom Keybindings**: Super key-based controls for workspaces, windows, screenshots, and media
+- Hyprland (dynamic tiling with Dwindle layout, smooth animations, and French keyboard support)
+- Waybar (custom top bar with workspaces, clock, and status modules)
+- Hyprlock (elegant lock screen showing time, date, music info, and battery status)
+- Hyprpaper (wallpaper manager with Pywal integration)
+- Hypridle (idle management with screen lock and DPMS control)
+- Wlogout (stylish power menu for lock, logout, suspend, hibernate, reboot, and shutdown)
+- Rofi (minimalist app launcher with dark theme and rounded corners)
+- Kitty (terminal with a semi-transparent background)
+- Custom Keybindings (Super key-based controls for workspaces, windows, screenshots, and media)
+- Fastfetch (system info fetch tool for terminal)
+- Cava (audio visualizer for the terminal)
+- Btop (modern system monitor with CPU, RAM, and process info)
+- Swaync (notification center for Wayland)
+- BigClock (simple desktop clock script)
+- Wallust (Pywal-based color scheme generator)
+- Vencord (Discord client customization)
 
 ## Cursor Theme
 This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
@@ -33,33 +40,64 @@ To install Bibata on Arch-based operating systems run this:
 
 
 ## Dependencies
-- Hyprland
-- Waybar
-- Hyprpaper
-- Hyprlock
-- Hypridle
-- Swaync
-- Wlogout
-- Rofi
-- Kitty
-- Dolphin (file manager)
-- NetworkManager (network)
-- Yay (AUR helper for updates)
-- Fira Sans (Wlogout font)
-- JetBrains Mono (Hyprlock font)
-- Font Awesome 6 Free (icons)
+- Hyprland (dynamic tiling Wayland compositor)
+- Waybar (customizable status bar for Wayland)
+- Rofi (application launcher and window switcher)
+- Kitty (GPU-based terminal emulator)
+- Wlogout (Wayland logout dialog)
+- Grim (screenshot utility for Wayland)
+- Slurp (screen area selector for Wayland)
+- WL-Clipboard (clipboard utilities for Wayland)
+- Swaync (notification daemon for Wayland)
+- Dunst (lightweight notification daemon)
+- Picom (compositor for X11, effects like transparency)
+- Swww (wallpaper setter for Wayland)
+- Bibata Cursor Theme (modern cursor theme)
+- JetBrains Mono (developer-friendly font)
+- Fira Sans (sans-serif font)
+- Font Awesome 6 Free (icon toolkit)
+- Hyprlock (screen locker for Hyprland)
+- Hyprpaper (wallpaper manager for Hyprland)
+- Hypridle (idle management for Hyprland)
+- Thunar (file manager)
+- Nautilus (file manager)
+- NVIDIA Drivers (graphics drivers for NVIDIA GPUs)
+- nvidia-vaapi-driver (VA-API driver for NVIDIA GPUs)
+- libva-nvidia-driver (VA-API driver for NVIDIA GPUs)
+
 
 ## Keybindings
-
 - Super + Return: Launch Kitty terminal
 - Super + D: Open Rofi app launcher
 - Super + Q: Close active window
 - Super + Space: Toggle floating window
 - Super + 1-0: Switch to workspace 1-10
 - Super + G: Toggle groups
+- Super + Shift + W: Select wallpaper
+- Super + W: Set wallpaper
+- Super + Alt + Right: Next wallpaper
+- Super + Alt + Left: Previous wallpaper
+- Super + Alt + Right Click: Resize window
+- Super + Left Click: Move window
+- Super + Mouse Scroll: Cycle through workspaces
+- Super + Shift + Arrow Keys: Resize windows
+- Super + Shift + Ctrl + Arrow Keys: Move window within workspace
+- Super + Shift + [0-9]: Move window to workspace [0-9]
+- Super + Alt + [0-9]: Move window to workspace [0-9] silently
+- Super + Alt + S: Move window to special workspace
+- Super + S: Toggle special workspace
+- Super + Alt + G: Disable Hypr effects for GameMode
+- Super + Alt + →: Next wallpaper
+- Super + Alt + ←: Previous wallpaper
+- Super + Alt + ↑: Next Waybar mode
+- Super + Alt + ↓: Previous Waybar mode
+- Super + Shift + D: Toggle theme/wallpaper colors
+- Super + Shift + T: Theme select menu
+- Super + Shift + W: Wallpaper select menu
+- Super + Shift + A: Rofi style select menu!
+
 
 ## Directorys
-
 ```
 skidqs/
 ├── .config/
