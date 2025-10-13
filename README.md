@@ -16,6 +16,14 @@ Welcome to my Hyprland dot files this repository contains my configuration files
 - **Kitty**: Terminal with a semi-transparent background
 - **Custom Keybindings**: Super key-based controls for workspaces, windows, screenshots, and media
 
+## Cursor Theme
+This config uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme).
+
+**To install**
+```bash
+yay -S bibata-cursor-theme```
+
+
 ## Dependencies
 - Hyprland
 - Waybar
