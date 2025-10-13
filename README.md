@@ -1,17 +1,16 @@
-# My Own Hyprland Rice
+# My Own Hyprland Dot Files
 
-Welcome to my Hyprland ricing dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
+Welcome to my Hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
 
 ## Screenshots
 ![Desktop](screenshots/desktop.png)
 
 ## Features
 - **Hyprland**: Dynamic tiling with Dwindle layout, smooth animations, and French keyboard support
-- **Waybar**: Custom top bar with workspaces, clock, system tray, battery, network, and power menu
+- **Waybar**: Custom top bar with workspaces, clock,
 - **Hyprlock**: Elegant lock screen with time, date, music info, and battery status
 - **Hyprpaper**: Wallpaper management with Pywal integration
 - **Hypridle**: Idle management with screen lock and DPMS control
-- **Swaync**: Notification center with toggle via Waybar (default config included if not customized)
 - **Wlogout**: Stylish power menu for lock, logout, suspend, hibernate, reboot, and shutdown
 - **Rofi**: Minimalist app launcher with a dark theme and rounded corners
 - **Kitty**: Terminal with a semi-transparent background
