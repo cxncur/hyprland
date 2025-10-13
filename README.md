@@ -1,4 +1,4 @@
-# My Own Hyprland Dot Files
+# My Own Hyprland Dot Files For CachyOS
 
 Welcome to my Hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
 
