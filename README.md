@@ -63,10 +63,6 @@ To install Bibata on Arch-based operating systems run this:
 
 ```
 skidqs/
-│
-├── .bashrc/
-│    └── .bashrc
-│
 ├── .config/
 │   ├── hypr/
 │   │   ├── Monitor_Profiles/
@@ -227,6 +223,8 @@ skidqs/
 ├── screenshots/
 │   └── desktop.png
 │
+├── .bashrc
+├── .profile
 ├── README.md
 └── LICENSE
 ```
