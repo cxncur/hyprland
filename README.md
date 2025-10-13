@@ -1,13 +1,12 @@
 <div align="center">
   <h1>skidqs hyprland dotfiles</h1>
 
-  ![](https://img.shields.io/github/last-commit/skidqs/hyprland?&style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
-  ![](https://img.shields.io/github/stars/skidqs/hyprland?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
-  ![](https://img.shields.io/github/repo-size/skidqs/hyprland?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
-  ![](https://img.shields.io/github/forks/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=git&logoColor=D9E0EE&label=Forks&labelColor=1E202B)
-  ![](https://img.shields.io/github/issues/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=github&logoColor=D9E0EE&label=Open%20Issues&labelColor=1E202B)
-  ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=86dbd7&logo=open-source-initiative&logoColor=D9E0EE&label=License&labelColor=86dbd7)
-  
+  ![](https://img.shields.io/github/last-commit/skidqs/hyprland?&style=for-the-badge&color=1E202B&labelColor=1E202B&logo=git&logoColor=D9E0EE&label=Last%20Commit)
+  ![](https://img.shields.io/github/stars/skidqs/hyprland?style=for-the-badge&logo=andela&color=1E202B&labelColor=1E202B&logoColor=D9E0EE&label=Stars)
+  ![](https://img.shields.io/github/repo-size/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=protondrive&logoColor=D9E0EE&label=Size)
+  ![](https://img.shields.io/github/forks/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=git&logoColor=D9E0EE&label=Forks)
+  ![](https://img.shields.io/github/issues/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=github&logoColor=D9E0EE&label=Open%20Issues)
+  ![](https://img.shields.io/github/license/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=open-source-initiative&logoColor=D9E0EE&label=License)
 </div>
 
 Welcome to my Hyprland dot files this repository contains my configuration files for a sleek, modern, and functional Hyprland desktop environment with a Wlogout power menu, a custom Rofi app launcher, and a semi-transparent Kitty terminal.
