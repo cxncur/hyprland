@@ -20,7 +20,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 
 ---
 
-## Features
+### Features
 - Hyprland (dynamic tiling with Dwindle layout, smooth animations, and French keyboard support)
 - Waybar (custom top bar with workspaces, clock, and status modules)
 - Hyprlock (elegant lock screen showing time, date, music info, and battery status)
