@@ -66,7 +66,6 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 - Hyprpaper (wallpaper manager for Hyprland)
 - Hypridle (idle management for Hyprland)
 - Dolphin (file manager)
-- Nautilus (file manager)
 - NVIDIA Drivers (graphics drivers for NVIDIA GPUs)
 - nvidia-vaapi-driver (VA-API driver for NVIDIA GPUs)
 - libva-nvidia-driver (VA-API driver for NVIDIA GPUs)
