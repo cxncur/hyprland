@@ -105,6 +105,7 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 - Super + Shift + W: Wallpaper select menu
 - Super + Shift + A: Rofi style select menu
 
+---
 
 ### Directory Structure
 ```
