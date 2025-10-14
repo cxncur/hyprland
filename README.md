@@ -15,7 +15,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 
 ---
 
-## Screenshots
+### Screenshots
 ![Desktop](screenshots/desktop.png)
 
 ---
@@ -40,14 +40,14 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 
 ---
 
-## Cursor Theme
+### Cursor Theme
 This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
 
 To install Bibata on Arch-based operating systems run this ```yay -S bibata-cursor-theme```
 
 ---
 
-## Dependencies
+### Dependencies
 - Hyprland (dynamic tiling Wayland compositor)
 - Waybar (customizable status bar for Wayland)
 - Rofi (application launcher and window switcher)
@@ -75,7 +75,7 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 
 ---
 
-## Keybindings
+### Keybindings
 - Super + Return: Launch Kitty terminal
 - Super + D: Open Rofi app launcher
 - Super + Q: Close active window
@@ -106,7 +106,7 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 - Super + Shift + A: Rofi style select menu
 
 
-## Directory Structure
+### Directory Structure
 ```
 skidqs/
 ├── .config/
