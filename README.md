@@ -273,4 +273,3 @@ skidqs/
 ├── README.md
 └── LICENSE
 ```
-<div align="center"> <sub>maintained and customized by <b>@skidqs</b></sub> </div>
