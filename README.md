@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>skidqs hyprland dotfiles</h1>
 
