@@ -74,6 +74,7 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 
 ### Keybindings
 - Super + Return: Launch Kitty terminal
+- Super + E: Launch File Manager
 - Super + D: Open Rofi app launcher
 - Super + Q: Close active window
 - Super + Space: Toggle floating window
