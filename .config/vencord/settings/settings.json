@@ -4,7 +4,12 @@
     "useQuickCss": true,
     "themeLinks": [],
     "eagerPatches": false,
-    "enabledThemes": [],
+    "enabledThemes": [
+        "EmojiReplace.theme.css",
+        "ios emojis.css",
+        "chillax.css",
+        "chillax.theme.css"
+    ],
     "enableReactDevtools": false,
     "frameless": false,
     "transparent": false,
@@ -121,7 +126,7 @@
             "enabled": true
         },
         "ClientTheme": {
-            "enabled": false,
+            "enabled": true,
             "color": "000000"
         },
         "ColorSighted": {
@@ -239,7 +244,8 @@
         },
         "IgnoreActivities": {
             "enabled": true,
-            "ignoredActivities": []
+            "ignoredActivities": [],
+            "ignoreListening": false
         },
         "ImageFilename": {
             "enabled": false
@@ -341,7 +347,7 @@
             "enabled": false
         },
         "NoProfileThemes": {
-            "enabled": false
+            "enabled": true
         },
         "NoReplyMention": {
             "enabled": false
@@ -431,7 +437,8 @@
             "groups": true,
             "servers": true,
             "friends": true,
-            "friendRequestCancels": true
+            "friendRequestCancels": true,
+            "notices": false
         },
         "ReplaceGoogleSearch": {
             "enabled": true
@@ -648,6 +655,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1760539978354
+        "settingsSyncVersion": 1760560166433
     }
 }
