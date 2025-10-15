@@ -1,0 +1,60 @@
+/**
+ * @name chillax
+ * @author skidqs
+ * @authorLink https://github.com/skidqs
+ * @version 2.1.2
+ * @description The theme where calm meets customization.
+ * @source https://github.com/skidqs/chillax
+*/
+
+@import url("https://skidqs.github.io/chillax/chillax.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css");
+
+:root {
+    --background-image: var(--wallpaper);
+    --bg-opacity: 100%;
+}
+
+:root.theme-dark {
+    --window-margin: 20px;
+    --window-colour: #0009;
+    --window-blur: 5px;
+    --window-border-radius: 10px;
+    --sidebar-colour: rgb(36, 36, 36);
+}
+
+:root {
+    --user-name: "King";
+    --font-name: Poppins;
+    --font-size: 13px;
+    --group-chat-font: "Monoton";
+    --accentcolor: 40, 40, 40;
+    --accentcolorV2: #282828;
+
+    --chillax-input-field: "Life is so much easier when you just take a moment to chill";
+    --chillax-input-field-locked: "unfortunately, you can't chill in this channel";
+    --chillax-input-typing-indicator-one-person: "is yapping";
+    --chillax-input-typing-indicator-many-person: "are yapping";
+
+    --chillax-scroller-color: transparent;
+
+}
+
+.theme-dark {
+    --background-message-hover: rgba(255, 255, 255, 0.055);
+    --header-primary: #fff;
+    --header-secondary: #b9bbbe;
+    --text-normal: #dcddde;
+    --text-muted: #9d9d9d;
+    --channels-default: #8e9297;
+    --interactive-normal: #b9bbbe;
+    --interactive-hover: #dcddde;
+    --interactive-active: #fff;
+    --interactive-muted: #4f545c;
+    --background-primary: transparent;
+    --background-secondary: transparent;
+    --background-tertiary: transparent;
+    --background-accent: rgb(36, 36, 36);
+    --activity-card-background: transparent;
+    --deprecated-panel-background: transparent;
+}
