@@ -121,13 +121,17 @@
             "enabled": true
         },
         "ClientTheme": {
-            "enabled": false
+            "enabled": false,
+            "color": "000000"
         },
         "ColorSighted": {
             "enabled": false
         },
         "ConsoleJanitor": {
-            "enabled": false
+            "enabled": true,
+            "disableLoggers": false,
+            "disableSpotifyLogger": true,
+            "whitelistedLoggers": "GatewaySocket; Routing/Utils"
         },
         "ConsoleShortcuts": {
             "enabled": true
@@ -163,13 +167,14 @@
             "enabled": false
         },
         "DisableCallIdle": {
-            "enabled": false
+            "enabled": true
         },
         "DontRoundMyTimestamps": {
             "enabled": true
         },
         "Experiments": {
-            "enabled": false
+            "enabled": true,
+            "toolbarDevMenu": false
         },
         "ExpressionCloner": {
             "enabled": true
@@ -217,7 +222,8 @@
             "enabled": false
         },
         "GameActivityToggle": {
-            "enabled": false
+            "enabled": true,
+            "oldIcon": false
         },
         "GifPaste": {
             "enabled": false
@@ -232,7 +238,8 @@
             "enabled": true
         },
         "IgnoreActivities": {
-            "enabled": false
+            "enabled": true,
+            "ignoredActivities": []
         },
         "ImageFilename": {
             "enabled": false
@@ -241,7 +248,12 @@
             "enabled": false
         },
         "ImageZoom": {
-            "enabled": false
+            "enabled": true,
+            "size": 100,
+            "zoom": 2,
+            "saveZoomValues": true,
+            "nearestNeighbour": false,
+            "square": false
         },
         "ImplicitRelationships": {
             "enabled": false
@@ -253,7 +265,7 @@
             "enabled": false
         },
         "KeepCurrentChannel": {
-            "enabled": false
+            "enabled": true
         },
         "LastFMRichPresence": {
             "enabled": true,
@@ -306,7 +318,9 @@
             "showAllChannels": true
         },
         "NoBlockedMessages": {
-            "enabled": false
+            "enabled": false,
+            "ignoreMessages": false,
+            "applyToIgnoredUsers": true
         },
         "NoDevtoolsWarning": {
             "enabled": false
@@ -348,7 +362,8 @@
             "enabled": false
         },
         "NotificationVolume": {
-            "enabled": false
+            "enabled": true,
+            "notificationVolume": 100
         },
         "OnePingPerDM": {
             "enabled": false
@@ -389,10 +404,10 @@
             "enabled": true
         },
         "PlatformIndicators": {
-            "enabled": false,
+            "enabled": true,
             "colorMobileIndicator": true,
             "list": true,
-            "badges": true,
+            "badges": false,
             "messages": true
         },
         "PreviewMessage": {
@@ -411,10 +426,15 @@
             "enabled": true
         },
         "RelationshipNotifier": {
-            "enabled": false
+            "enabled": true,
+            "offlineRemovals": true,
+            "groups": true,
+            "servers": true,
+            "friends": true,
+            "friendRequestCancels": true
         },
         "ReplaceGoogleSearch": {
-            "enabled": false
+            "enabled": true
         },
         "ReplyTimestamp": {
             "enabled": false
@@ -459,7 +479,8 @@
         "ShowHiddenChannels": {
             "enabled": true,
             "showMode": 0,
-            "hideUnreads": true
+            "hideUnreads": true,
+            "defaultAllowedUsersAndRolesDropdownState": true
         },
         "ShowHiddenThings": {
             "enabled": true,
@@ -522,8 +543,10 @@
             "autoTranslate": false,
             "showChatBarButton": true,
             "service": "google",
-            "receivedInput": "auto",
-            "receivedOutput": "en"
+            "receivedInput": "de",
+            "receivedOutput": "en",
+            "sentInput": "auto",
+            "sentOutput": "en"
         },
         "TypingIndicator": {
             "enabled": false
@@ -625,6 +648,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1760228596265
+        "settingsSyncVersion": 1760539978354
     }
 }
