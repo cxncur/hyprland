@@ -401,7 +401,8 @@
         "PinDMs": {
             "enabled": true,
             "userBasedCategoryList": {
-                "219642620270477312": []
+                "219642620270477312": [],
+                "345872800726384652": []
             },
             "pinOrder": 0,
             "canCollapseDmSection": false
@@ -410,7 +411,7 @@
             "enabled": true
         },
         "PlatformIndicators": {
-            "enabled": true,
+            "enabled": false,
             "colorMobileIndicator": true,
             "list": true,
             "badges": false,
@@ -514,7 +515,8 @@
         },
         "SpotifyControls": {
             "enabled": true,
-            "hoverControls": false
+            "hoverControls": false,
+            "previousButtonRestartsTrack": true
         },
         "SpotifyCrack": {
             "enabled": true,
@@ -550,9 +552,9 @@
             "autoTranslate": false,
             "showChatBarButton": true,
             "service": "google",
-            "receivedInput": "de",
+            "receivedInput": "ar",
             "receivedOutput": "en",
-            "sentInput": "auto",
+            "sentInput": "en",
             "sentOutput": "en"
         },
         "TypingIndicator": {
@@ -655,6 +657,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1760560166433
+        "settingsSyncVersion": 1761335835004
     }
 }
