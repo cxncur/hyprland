@@ -38,7 +38,7 @@ It includes a **Wlogout power menu**, **custom Rofi app launcher**, **semi-trans
 ---
 
 ### Cursor Theme
-This configuration uses the [Bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
+This configuration uses the [bibata cursor theme](https://aur.archlinux.org/packages/bibata-cursor-theme)
 
 To install Bibata on Arch-based operating systems run this ```yay -S bibata-cursor-theme```
 
@@ -72,35 +72,35 @@ To install Bibata on Arch-based operating systems run this ```yay -S bibata-curs
 ---
 
 ### Keybindings
-- Super + Return: Launch Kitty terminal
-- Super + E: Launch File Manager
-- Super + D: Open Rofi app launcher
-- Super + Q: Close active window
-- Super + Space: Toggle floating window
-- Super + 1-0: Switch to workspace 1-10
-- Super + G: Toggle groups
-- Super + Shift + W: Select wallpaper
-- Super + W: Set wallpaper
-- Super + Alt + Right: Next wallpaper
-- Super + Alt + Left: Previous wallpaper
-- Super + Alt + Right Click: Resize window
-- Super + Left Click: Move window
-- Super + Mouse Scroll: Cycle through workspaces
-- Super + Shift + Arrow Keys: Resize windows
-- Super + Shift + Ctrl + Arrow Keys: Move window within workspace
-- Super + Shift + [0-9]: Move window to workspace [0-9]
-- Super + Alt + [0-9]: Move window to workspace [0-9] silently
-- Super + Alt + S: Move window to special workspace
-- Super + S: Toggle special workspace
-- Super + Alt + G: Disable Hypr effects for GameMode
-- Super + Alt + →: Next wallpaper
-- Super + Alt + ←: Previous wallpaper
-- Super + Alt + ↑: Next Waybar mode
-- Super + Alt + ↓: Previous Waybar mode
-- Super + Shift + D: Toggle theme/wallpaper colors
-- Super + Shift + T: Theme select menu
-- Super + Shift + W: Wallpaper select menu
-- Super + Shift + A: Rofi style select menu
+- `Super + Return` Launch Kitty terminal
+- `Super + E` Launch File Manager
+- `Super + D` Open Rofi app launcher
+- `Super + Q` Close active window
+- `Super + Space` Toggle floating window
+- `Super + 1-0` Switch to workspace 1-10
+- `Super + G` Toggle groups
+- `Super + Shift + W` Select wallpaper
+- `Super + W` Set wallpaper
+- `Super + Alt + Right` Next wallpaper
+- `Super + Alt + Left` Previous wallpaper
+- `Super + Alt + Right Click` Resize window
+- `Super + Left Click` Move window
+- `Super + Mouse Scroll` Cycle through workspaces
+- `Super + Shift + Arrow Keys` Resize windows
+- `Super + Shift + Ctrl + Arrow Keys` Move window within workspace
+- `Super + Shift + [0-9]` Move window to workspace [0-9]
+- `Super + Alt + [0-9]` Move window to workspace [0-9] silently
+- `Super + Alt + S` Move window to special workspace
+- `Super + S` Toggle special workspace
+- `Super + Alt + G` Disable Hypr effects for GameMode
+- `Super + Alt + →` Next wallpaper
+- `Super + Alt + ←` Previous wallpaper
+- `Super + Alt + ↑` Next Waybar mode
+- `Super + Alt + ↓` Previous Waybar mode
+- `Super + Shift + D` Toggle theme/wallpaper colors
+- `Super + Shift + T` Theme select menu
+- `Super + Shift + W` Wallpaper select menu
+- `Super + Shift + A` Rofi style select menu
 
 ---
 
