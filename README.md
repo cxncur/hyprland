@@ -1,10 +1,5 @@
 <div align="center">
   <h1>skidqs hyprland dotfiles</h1>
-
-  ![](https://img.shields.io/github/last-commit/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=git&logoColor=FFFFFF&label=Last%20Commit)
-  ![](https://img.shields.io/github/stars/skidqs/hyprland?style=for-the-badge&logo=andela&color=1E202B&labelColor=1E202B&logoColor=FFFFFF&label=Stars)
-  ![](https://img.shields.io/github/repo-size/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=protondrive&logoColor=FFFFFF&label=Size)
-  ![](https://img.shields.io/github/forks/skidqs/hyprland?style=for-the-badge&color=1E202B&labelColor=1E202B&logo=git&logoColor=FFFFFF&label=Forks)
 </div>
 
 Welcome to my **Hyprland dotfiles** — this repository contains my personal configuration files for a **sleek**, **modern**, and **functional** Hyprland desktop environment.  
