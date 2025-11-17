@@ -1,5 +1,5 @@
 terminal=kitty
-wallDIR="$HOME/.config/rofi/wallpapers"
+wallDIR="$HOME/.config/rofi/Wallpapers"
 SCRIPTSDIR="$HOME/.config/hypr/scripts"
 wallpaper_current="$HOME/.config/hypr/wallpaper_effects/.wallpaper_current"
 iDIR="$HOME/.config/swaync/images"
@@ -46,12 +46,10 @@ menu() {
     -iname "*.bmp" -o -iname "*.tiff" -o -iname "*.webp" -o \
     -iname "*.mp4" -o -iname "*.mkv" -o -iname "*.mov" -o -iname "*.webm" \) -print0)
 
-  # Add random entry
   RANDOM_PIC="${PICS[$((RANDOM % ${#PICS[@]}))]}"
   RANDOM_PIC_NAME=". random"
   printf "%s\x00icon\x1f%s\n" "$RANDOM_PIC_NAME" "$RANDOM_PIC"
 
-  # Show all files
   IFS=$'\n' sorted_options=($(sort <<<"${PICS[*]}"))
   for pic_path in "${sorted_options[@]}"; do
     pic_name=$(basename "$pic_path")
@@ -101,8 +99,11 @@ apply_video_wallpaper() {
     notify-send -i "$iDIR/error.png" "E-R-R-O-R" "mpvpaper not found"
     return 1
   fi
+
   kill_wallpaper_for_video
-  mpvpaper '*' -o "load-scripts=no no-audio --loop" "$video" &
+
+  mpvpaper '*' "$video" \
+    -o "--loop --no-audio --hwdec=vaapi --profile=high-quality --video-sync=display-resample --no-keepaspect" &
 }
 
 if pidof rofi >/dev/null; then pkill rofi; fi
