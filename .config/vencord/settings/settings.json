@@ -42,7 +42,7 @@
             "enabled": true
         },
         "MessageUpdaterAPI": {
-            "enabled": false
+            "enabled": true
         },
         "ServerListAPI": {
             "enabled": true
@@ -154,7 +154,9 @@
             "enabled": true
         },
         "CrashHandler": {
-            "enabled": true
+            "enabled": true,
+            "attemptToPreventCrashes": true,
+            "attemptToNavigateToHome": false
         },
         "CtrlEnterSend": {
             "enabled": false
@@ -228,7 +230,8 @@
         },
         "GameActivityToggle": {
             "enabled": true,
-            "oldIcon": false
+            "oldIcon": false,
+            "location": "PANEL"
         },
         "GifPaste": {
             "enabled": false
@@ -305,7 +308,17 @@
             "enabled": false
         },
         "MessageLogger": {
-            "enabled": false
+            "enabled": true,
+            "deleteStyle": "text",
+            "logDeletes": true,
+            "collapseDeleted": false,
+            "logEdits": true,
+            "inlineEdits": true,
+            "ignoreBots": true,
+            "ignoreSelf": true,
+            "ignoreUsers": "",
+            "ignoreChannels": "",
+            "ignoreGuilds": ""
         },
         "MessageTags": {
             "enabled": false
@@ -347,7 +360,7 @@
             "enabled": false
         },
         "NoProfileThemes": {
-            "enabled": true
+            "enabled": false
         },
         "NoReplyMention": {
             "enabled": false
@@ -402,7 +415,12 @@
             "enabled": true,
             "userBasedCategoryList": {
                 "219642620270477312": [],
-                "345872800726384652": []
+                "345872800726384652": [],
+                "1411103441622663348": [],
+                "332876421867503617": [],
+                "1437533535786242133": [],
+                "1439018435760619713": [],
+                "1439424036424777790": []
             },
             "pinOrder": 0,
             "canCollapseDmSection": false
@@ -552,10 +570,11 @@
             "autoTranslate": false,
             "showChatBarButton": true,
             "service": "google",
-            "receivedInput": "ar",
+            "receivedInput": "es",
             "receivedOutput": "en",
             "sentInput": "en",
-            "sentOutput": "en"
+            "sentOutput": "es",
+            "showAutoTranslateTooltip": true
         },
         "TypingIndicator": {
             "enabled": false
@@ -657,6 +676,10 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1761335835004
+        "settingsSyncVersion": 1765295421246
+    },
+    "uiElements": {
+        "chatBarButtons": {},
+        "messagePopoverButtons": {}
     }
 }
